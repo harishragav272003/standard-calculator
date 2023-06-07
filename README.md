@@ -7,21 +7,18 @@ To design a web application for a standard calculator.
 ## DESIGN STEPS:
 
 ### Step 1:
-
+Clone the github repository for a standard calculator.
 
 ### Step 2:
-
+Change settings.py file to allow request from all hosts.
 
 ### Step 3:
-
+Use CSS for creating attractive colors
 
 ### Step 4:
-
+Write Javascript program for implementing five different operations.
 
 ### Step 5:
-
-### Step 6:
-
 Validate the HTML and CSS code.
 
 ### Step 6:
